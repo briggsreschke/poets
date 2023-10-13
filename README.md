@@ -1,5 +1,5 @@
 # poets
-GIS project - Places of birth and places of death for poets from the US
-Data scraped from wikipedia https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States with (poets.py)
+GIS project - Places of birth and places of death for poets from the US\n
+Data scraped from wikipedia https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States with (poets.py)\n
 Maps were made with QGIS
 
