@@ -1,4 +1,4 @@
-# Slacker Design feature.frame@github.com
+# Slacker Design feature.frame@gmail.com
 import requests
 import csv
 import json
