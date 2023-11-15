@@ -1,7 +1,7 @@
 # Poets
 [Poets from the United States](https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States) scraped from wikipedia (poets.py). Maps created with [QGIS](https://www.qgis.org/en/site/). I geocoded what I could, scriptwise, for place of birth and place of death. Not everyone has personal history data in wiki infobox. Project idea....
 
-## apps (poet archaeology)
+## apps 
  * Interactive [cluster map](http://slackerdesign.com/poets/index.html)
 * [Time slider](http://slackerdesign.com/poets/poet_timeslider.html) - Places of birth over time 
   
