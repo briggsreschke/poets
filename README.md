@@ -3,7 +3,7 @@
 
 ## apps
  * Interactive [cluster map](http://slackerdesign.com/poets/index.html)
-* [Time Slider](http://slackerdesign.com/poets/poet_timeslider.html) - Place of birth, time distributed
+* [Time slider](http://slackerdesign.com/poets/poet_timeslider.html) - Place of birth, time distributed
   
 ## gis 
 * Static birthplace:
