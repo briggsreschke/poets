@@ -3,7 +3,8 @@
 
 ## apps
  * Interactive [cluster map](http://slackerdesign.com/poets/index.html)
-
+* [Time Slider](slackerdesign.com/poets/poet_timeslider.html) Place of birth with time
+  
 ## gis 
 * Static birthplace:
 ![poets birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/21b90e11-7bca-412e-bd08-8f23cf62c84b)
