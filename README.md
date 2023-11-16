@@ -3,6 +3,8 @@
 
 ## apps
 [World Poets cluster map](http://slackerdesign.com/poets/poets.html)
+![image](https://github.com/briggsreschke/poets/assets/16325768/8b496b12-f54f-4547-b84c-64a1f03d4828)
+
 
 ## maps
 * Static birthplace:
