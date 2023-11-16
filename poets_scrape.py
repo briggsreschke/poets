@@ -1,4 +1,4 @@
-# Scrape wikipedia for World Poets\
+# Scrape wikipedia for poets
 # Slacker Design
 # feature.frame at gmail dot com
 
