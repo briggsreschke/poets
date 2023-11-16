@@ -1,12 +1,12 @@
-# Scrape wikipedia for poets
+# Scrape wikipedia for World of Poets
 # Slacker Design
 # feature.frame at gmail dot com
 
 import requests
-import json
 from bs4 import BeautifulSoup
-import re
+import json
 import csv
+import re
 from geopandas.tools import geocode
 
 poets = []
@@ -17,24 +17,27 @@ items = object.find_all('li')
 
 # ---------------------------------------------------------------------------------------------
 
-for tag in items:
-    for row in tag.findAll('a'):
-        poet = {}
-        poet['href'] = 'https://en.wikipedia.org' + row['href']
-        poet['name'] = row.text
-        poet["born"] = 0
-        poet["died"] = 0
-        poet['info'] = tag.text
-        poets.append(poet)
-
-# print(poets)
+for record in items:
+    row = record.find('a')
+    poet = {}
+    poet['href'] = 'https://en.wikipedia.org' + row['href']
+    poet['name'] = row.text
+    poet["born"] = 0
+    poet["died"] = 0
+    poet['info'] = record.text
+    poet['birthplace'] = ''
+    poet['deathplace'] = ''
+    poet['birth_lon'] = 0
+    poet['birth_lat'] = 0
+    poet['death_lon'] = 0
+    poet['death_lat'] = 0
+    poets.append(poet)
 
 with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile)
 
-
 # -----------------------------------------------------------------------------------------
-# Dates of Birth/Death
+# Dates of Birth/Death with regular expressions
 
 pattern = "\(\d+\u2013\d+\)" + "|" + "\(born \d+\)" + "|" + "\(died \d+\)"
 
@@ -66,7 +69,7 @@ with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile, indent=2)
 
 # ---------------------------------------------------------------------------------------------
-# Info/comment string
+# Trim info/comment string
 
 pattern = "\), (\D+)"
 
@@ -99,7 +102,6 @@ for poet in poets:
         poet['birthplace'] = birthplace
         print('birthplace: ', birthplace)
     except:
-        poet['birthplace'] = ""
         pass
 
     try:
@@ -110,21 +112,19 @@ for poet in poets:
         poet['deathplace'] = deathplace
         print("deathplace: ", deathplace)
     except:
-        poet['deathplace'] = ""
         pass
 
 with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile, indent=2)
 
 # ---------------------------------------------------------------------------
-# Get birthplace and deathplace - old style infobox
+# Get birthplace and deathplace (old style infobox)
 
 for poet in poets:
     if poet['birthplace'] or poet['deathplace']:
         continue
 
-    url2 = poet['href']
-    page = requests.get(url2)
+    page = requests.get(poet['href'])
     soup = BeautifulSoup(page.content, 'html.parser')
 
     try:
@@ -141,15 +141,14 @@ for poet in poets:
             elif bod == "Died":
                 poet['deathplace'] = first_a
             else:
-                pass
+                continue
     except:
-        pass
+        continue
 
     try:
         fourth_tr = infobox.find_all('tr')[3]
         bod = fourth_tr.find('th').text
         first_a = fourth_tr.find('a')['title']
-
         if(len(first_a) < 30):
             print(poet['name'], " ", bod, first_a)
             if bod == "Born":
@@ -157,9 +156,9 @@ for poet in poets:
             elif bod == "Died":
                 poet['deathplace'] = first_a
             else:
-                pass
+                continue
     except:
-        pass
+        continue
 
 with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile, indent=2)
@@ -168,11 +167,6 @@ with open("./world-poets-g.json", 'w') as outfile:
 # Geocode places of birth/death
 
 for poet in poets:
-    poet['birth_lon'] = 0
-    poet['birth_lat'] = 0
-    poet['death_lon'] = 0
-    poet['death_lat'] = 0
-
     if poet['birthplace'] != '':
         try:
             df = geocode(poet['birthplace'], provider="nominatim",
