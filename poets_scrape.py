@@ -82,30 +82,6 @@ for poet in poets:
 with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile, indent=2)
 
-# ---------------------------------------------------------------------------------------------
-# del dups
-
-tmp = []
-foo = count = 0
-for poet in poets:
-    if count == 0:
-        pb = poet["born"]
-        pd = poet["died"]
-        info = poet["info"]
-        count += 1
-    elif poet["born"] == pb and poet["died"] == pd and poet["info"] == info:
-        poets.remove(poet)
-        foo += 1
-        count = 0
-    else:
-        pb = poet["born"]
-        pd = poet["died"]
-        info = poet["info"]
-
-print(foo)
-
-with open("./world-poets-g.json", 'w') as outfile:
-    json.dump(poets, outfile, indent=2)
 
 # ---------------------------------------------------------------------------
 # Get birthplace and deathplace
