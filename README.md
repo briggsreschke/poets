@@ -4,6 +4,8 @@
 ## apps
 Cluster map of World Poets
 
+![image](https://github.com/briggsreschke/poets/assets/16325768/e9fdbd95-9d98-4578-811f-201968e5c078)
+
 ## maps
 * Static birthplace:
 ![poets birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/21b90e11-7bca-412e-bd08-8f23cf62c84b)
