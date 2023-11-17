@@ -22,10 +22,6 @@
 
 <br/>
 
-<div style="border-style: solid">
-  <img src="https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0">
-</div>
-
 ![poets birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0)
 
 
