@@ -88,11 +88,11 @@ with open("./world-poets-g.json", 'w') as outfile:
 
 
 # ---------------------------------------------------------------------------
-# Get birthplace and deathplace from poet wikipage 
+# Get birthplace and deathplace from poet wikipage infobox
 
 for poet in poets:
-    url = poet['href']
-    page = requests.get(url)
+    url2 = poet['href']
+    page = requests.get(url2)
     soup = BeautifulSoup(page.text, 'html.parser')
 
     try:
@@ -122,8 +122,9 @@ with open("./world-poets-g.json", 'w') as outfile:
 # Get birthplace and deathplace (old style infobox)
 
 for poet in poets:
-    if poet['birthplace'] or poet['deathplace']:
-        continue
+
+    # if poet['birthplace'] or poet['deathplace']:
+    #    continue
 
     page = requests.get(poet['href'])
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -142,9 +143,9 @@ for poet in poets:
             elif bod == "Died":
                 poet['deathplace'] = first_a
             else:
-                continue
+                pass
     except:
-        continue
+        pass
 
     try:
         fourth_tr = infobox.find_all('tr')[3]
@@ -157,9 +158,21 @@ for poet in poets:
             elif bod == "Died":
                 poet['deathplace'] = first_a
             else:
-                continue
+                pass
     except:
-        continue
+        pass
+
+    try:
+        fifth_tr = infobox.find_all('tr')[4]
+        bod = fifth_tr.find('th').text
+        first_a = fifth_tr.find('a')['title']
+        if bod == "Died":
+            poet['deathplace'] = first_a
+            print(poet['name'], bod, first_a)
+        else:
+            pass
+    except:
+        pass
 
 with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile, indent=2)
@@ -174,6 +187,7 @@ for poet in poets:
                          user_agent="poetsgis", timeout=10)
             poet['birth_lon'] = round(df['geometry'][0].x, 5)
             poet['birth_lat'] = round(df['geometry'][0].y, 5)
+            print(poet['name'], poet["birth_lon"], ", ", poet["birth_lat"])
         except:
             continue
 
