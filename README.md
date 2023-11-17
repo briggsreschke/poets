@@ -6,8 +6,10 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/6faee1d5-dea8-4a6b-b88a-c50f440714ba)
 
+* [US Poets/Time](slackerdesign.com/poets/poet_timeslider.html)
 
-## Maps
+![image](https://github.com/briggsreschke/poets/assets/16325768/a5920bd6-6d9d-4e5f-a8a2-04ce24282f79)
+
 
 ![poets birthplace](https://github.com/briggsreschke/poets/assets/16325768/4c5cf554-9bdc-4fef-923c-82aecc9045cd)
 
