@@ -4,7 +4,8 @@
 ## Apps
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/aff50d1f-8fd0-4a0c-8a56-7d9efa09313c)
+![image](https://github.com/briggsreschke/poets/assets/16325768/ecff6844-e50c-4cb3-862b-bb592b0a6e36)
+
 
 
 * [Poets from the US over time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
