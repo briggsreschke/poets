@@ -8,7 +8,7 @@
 
 * [Poets from the US over time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/a5920bd6-6d9d-4e5f-a8a2-04ce24282f79)
+![image](https://github.com/briggsreschke/poets/assets/16325768/6fde73ad-5322-434e-a2a6-84ab2595dcd3)
 
 
 ![poets birthplace](https://github.com/briggsreschke/poets/assets/16325768/4c5cf554-9bdc-4fef-923c-82aecc9045cd)
