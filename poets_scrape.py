@@ -11,11 +11,11 @@ from geopandas.tools import geocode
 
 poets = []
 
+# ---------------------------------------------------------------------------------------------
+
 soup = BeautifulSoup(open("filtered.html"), 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all('li')
-
-# ---------------------------------------------------------------------------------------------
 
 for record in items:
     row = record.find('a')
@@ -90,8 +90,7 @@ with open("./world-poets-g.json", 'w') as outfile:
 # Get birthplace and deathplace
 
 for poet in poets:
-    url2 = poet['href']
-    page = requests.get(url2)
+    page = requests.get(poet["href"])
     soup = BeautifulSoup(page.text, 'html.parser')
 
     try:
