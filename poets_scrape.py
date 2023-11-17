@@ -16,14 +16,14 @@ soup = BeautifulSoup(open("filtered.html"), 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all('li')
 
-for record in items:
-    row = record.find('a')
+for item in items:
+    link = item.find('a')
     poet = {}
-    poet['href'] = 'https://en.wikipedia.org' + row['href']
-    poet['name'] = row.text
+    poet['href'] = 'https://en.wikipedia.org' + link['href']
+    poet['name'] = link.text
     poet["born"] = 0
     poet["died"] = 0
-    poet['info'] = record.text
+    poet['info'] = item.text
     poet['birthplace'] = ''
     poet['deathplace'] = ''
     poet['birth_lon'] = 0
