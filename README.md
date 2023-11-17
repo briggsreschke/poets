@@ -12,10 +12,7 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/1e8988f2-4045-4443-b64a-9ed0c9511aa2)
 
-
-
 <br/>
-
 ## Maps
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/e8b4094c-f77d-4879-9482-eff92c162ff2) -->
 <img src = "https://github.com/briggsreschke/poets/assets/16325768/28eb7737-1221-4402-8a37-340181c98f32" border="1px solid black"/>
