@@ -21,6 +21,7 @@
 
 <br/>
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/6858052f-ac00-47c6-b4e8-942e4bbdf26e)
+![image](https://github.com/briggsreschke/poets/assets/16325768/52339d04-f3b6-4df9-8ad3-00189a38441a)
+
 
 
