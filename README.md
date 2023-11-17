@@ -4,7 +4,8 @@
 ## Apps
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/ecff6844-e50c-4cb3-862b-bb592b0a6e36)
+![image](https://github.com/briggsreschke/poets/assets/16325768/f9539a4c-e175-4073-b1d7-7cade2220053)
+
 
 <br/>
 
