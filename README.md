@@ -23,7 +23,7 @@
 <br/>
 
 <kbd>
-  <img src="https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0" style="border: 1px solid black">
+  <img src="https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0">
 </kbd>
 
 ![poets birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0)
