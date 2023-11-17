@@ -97,11 +97,11 @@
     "died": 1938,
     "info": "English poet and literary critic",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "London",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -0.14406,
+    "death_lat": 51.48933
   },
   {
     "href": "https://en.wikipedia.org/wiki/Arthur_Talmage_Abernethy",
@@ -175,11 +175,11 @@
     "died": 1997,
     "info": "US experimental novelist, punk poet and playwright",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Tijuana",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -117.01953,
+    "death_lat": 32.53174
   },
   {
     "href": "https://en.wikipedia.org/wiki/Diane_Ackerman",
@@ -604,11 +604,11 @@
     "died": 0,
     "info": "Arab scholar, poet and ancestor of the Somali Isaaq clan-family",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Maydh",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 47.10968,
+    "death_lat": 11.0042
   },
   {
     "href": "https://en.wikipedia.org/wiki/Ai_(poet)",
@@ -1098,11 +1098,11 @@
     "died": 1321,
     "info": "Italian poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Ravenna",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 12.05901,
+    "death_lat": 44.36406
   },
   {
     "href": "https://en.wikipedia.org/wiki/James_Alexander_Allan",
@@ -1929,10 +1929,10 @@
     "born": 0,
     "died": 0,
     "info": "Greek lyric poet",
-    "birthplace": "",
+    "birthplace": "Paros",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 3.50781,
+    "birth_lat": 44.39225,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -2657,8 +2657,8 @@
     "born": 1762,
     "died": 1851,
     "info": "Scottish poet and dramatist",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -3074,11 +3074,11 @@
     "died": 1886,
     "info": "English writer, poet and philologist",
     "birthplace": "Bagber",
-    "deathplace": "",
+    "deathplace": "Winterborne Came",
     "birth_lon": -2.34998,
     "birth_lat": 50.92229,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -2.41779,
+    "death_lat": 50.69501
   },
   {
     "href": "https://en.wikipedia.org/wiki/Catherine_Barnett",
@@ -3203,12 +3203,12 @@
     "born": 1644,
     "died": 1694,
     "info": "Japanese renku and haiku poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Ueno, Mie",
+    "deathplace": "Osaka",
+    "birth_lon": 136.12713,
+    "birth_lat": 34.77019,
+    "death_lon": 135.49036,
+    "death_lat": 34.61988
   },
   {
     "href": "https://en.wikipedia.org/wiki/Michael_Basinski",
@@ -3411,10 +3411,10 @@
     "born": 1939,
     "died": 0,
     "info": "Serbian writer and poet",
-    "birthplace": "",
+    "birthplace": "Senta",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 19.28655,
+    "birth_lat": 47.96782,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -4507,8 +4507,8 @@
     "deathplace": "Geneva",
     "birth_lon": -58.43709,
     "birth_lat": -34.60757,
-    "death_lon": 6.1466,
-    "death_lat": 46.20176
+    "death_lon": 6.14231,
+    "death_lat": 46.20472
   },
   {
     "href": "https://en.wikipedia.org/wiki/Tadeusz_Borowski",
@@ -4893,12 +4893,12 @@
     "born": 1940,
     "died": 1996,
     "info": "Russian poet and essayist",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Saint Petersburg",
+    "deathplace": "New York City",
+    "birth_lon": 30.31623,
+    "birth_lat": 59.93873,
+    "death_lon": -74.00602,
+    "death_lat": 40.71273
   },
   {
     "href": "https://en.wikipedia.org/wiki/Wladyslaw_Broniewski",
@@ -5062,12 +5062,12 @@
     "born": 1905,
     "died": 1980,
     "info": "Soviet Belarusian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Russian Empire",
+    "deathplace": "Minsk",
+    "birth_lon": 62.34188,
+    "birth_lat": 35.27704,
+    "death_lon": 27.56182,
+    "death_lat": 53.90247
   },
   {
     "href": "https://en.wikipedia.org/wiki/George_Mackay_Brown",
@@ -5154,11 +5154,11 @@
     "died": 1861,
     "info": "English poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Florence",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 11.25558,
+    "death_lat": 43.76987
   },
   {
     "href": "https://en.wikipedia.org/wiki/Robert_Browning",
@@ -5725,12 +5725,12 @@
     "born": 1944,
     "died": 1988,
     "info": "South African writer, poet and musician",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Pretoria",
+    "deathplace": "Ramsgate",
+    "birth_lon": 28.18791,
+    "birth_lat": -25.74593,
+    "death_lon": 1.41965,
+    "death_lat": 51.33347
   },
   {
     "href": "https://en.wikipedia.org/wiki/Norman_Cameron_(poet)",
@@ -6271,12 +6271,12 @@
     "born": 1623,
     "died": 1673,
     "info": "English writer, aristocrat and scientist",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Colchester",
+    "deathplace": "London",
+    "birth_lon": 0.89947,
+    "birth_lat": 51.88969,
+    "death_lon": -0.14406,
+    "death_lat": 51.48933
   },
   {
     "href": "https://en.wikipedia.org/wiki/Paul_Celan",
@@ -6506,11 +6506,11 @@
     "died": 1770,
     "info": "English poet and forger of medieval poetry",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Holborn",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -0.11373,
+    "death_lat": 51.5196
   },
   {
     "href": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer",
@@ -7455,11 +7455,11 @@
     "died": 1989,
     "info": "US novelist, poet and critic",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "New Milford, Connecticut",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -73.41058,
+    "death_lat": 41.5771
   },
   {
     "href": "https://en.wikipedia.org/wiki/William_Cowper",
@@ -7779,12 +7779,12 @@
     "born": 1820,
     "died": 1898,
     "info": "Indian Gujarati language poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Wadhwan",
+    "deathplace": "Ahmedabad",
+    "birth_lon": 71.67239,
+    "birth_lat": 22.7028,
+    "death_lon": 72.57971,
+    "death_lat": 23.02162
   },
   {
     "href": "https://en.wikipedia.org/wiki/Roque_Dalton",
@@ -7948,12 +7948,12 @@
     "born": 1941,
     "died": 2008,
     "info": "Palestinian poet and author",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Al-Birwa",
+    "deathplace": "Houston",
+    "birth_lon": 71.86064,
+    "birth_lat": -5.34971,
+    "death_lon": -95.3677,
+    "death_lat": 29.75894
   },
   {
     "href": "https://en.wikipedia.org/wiki/Elizabeth_Daryush",
@@ -8364,12 +8364,12 @@
     "born": 1651,
     "died": 1695,
     "info": "Mexican poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Tepetlixpa",
+    "deathplace": "Mexico City",
+    "birth_lon": -98.84231,
+    "birth_lat": 19.01393,
+    "death_lon": -99.13318,
+    "death_lat": 19.43263
   },
   {
     "href": "https://en.wikipedia.org/wiki/Baltasar_del_Alc%C3%A1zar",
@@ -9339,10 +9339,10 @@
     "born": 712,
     "died": 770,
     "info": "Chinese poet of Tang Dynasty",
-    "birthplace": "",
+    "birthplace": "Gongyi",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 113.03912,
+    "birth_lat": 34.6992,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -9613,11 +9613,11 @@
     "died": 2022,
     "info": "Iranian poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Cologne",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 0.9775,
+    "death_lat": 43.72183
   },
   {
     "href": "https://en.wikipedia.org/wiki/Russell_Edson",
@@ -10094,11 +10094,11 @@
     "died": 0,
     "info": "US slam poet and musician",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Albany, New York",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -73.75497,
+    "death_lat": 42.65117
   },
   {
     "href": "https://en.wikipedia.org/wiki/Jerry_Estrin",
@@ -10301,12 +10301,12 @@
     "born": 1931,
     "died": 2008,
     "info": "Pakistani Urdu poet and scriptwriter",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Kohat",
+    "deathplace": "Islamabad",
+    "birth_lon": 78.6161,
+    "birth_lat": 21.96101,
+    "death_lon": 73.06515,
+    "death_lat": 33.69381
   },
   {
     "href": "https://en.wikipedia.org/wiki/Eleanor_Farjeon",
@@ -10366,7 +10366,7 @@
     "born": 1930,
     "died": 2019,
     "info": "English poet, novelist and playwright",
-    "birthplace": "",
+    "birthplace": "Edit this on Wikidata",
     "deathplace": "",
     "birth_lon": 0,
     "birth_lat": 0,
@@ -10445,7 +10445,7 @@
     "died": 1020,
     "info": "Persian poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Ghaznavids",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -10861,11 +10861,11 @@
     "died": 1924,
     "info": "French poet, journalist and novelist",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Tours",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 0.68893,
+    "death_lat": 47.39005
   },
   {
     "href": "https://en.wikipedia.org/wiki/Robert_Francis_(poet)",
@@ -11432,10 +11432,10 @@
     "born": 1797,
     "died": 1869,
     "info": "",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birthplace": "Agra",
+    "deathplace": "Ballimaran Assembly constituency",
+    "birth_lon": 78.00982,
+    "birth_lat": 27.17526,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -11641,11 +11641,11 @@
     "died": 0,
     "info": "US poet; US Poet Laureate",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Cambridge, Massachusetts",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -71.104,
+    "death_lat": 42.36558
   },
   {
     "href": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
@@ -12278,11 +12278,11 @@
     "died": 1872,
     "info": "Austrian writer, poet and dramatist",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Vienna",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 16.3725,
+    "death_lat": 48.20835
   },
   {
     "href": "https://en.wikipedia.org/wiki/Nicholas_Grimald",
@@ -12472,10 +12472,10 @@
     "born": 1952,
     "died": 0,
     "info": "Bangladesh poet writing in Bengali",
-    "birthplace": "",
+    "birthplace": "Chittagong",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 91.83443,
+    "birth_lat": 22.33378,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -12563,8 +12563,8 @@
     "born": 0,
     "died": 1541,
     "info": "Ottoman Bektashi dervish poet",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Buda",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -12758,12 +12758,12 @@
     "born": 1943,
     "died": 0,
     "info": "Somaliland poet and songwriter",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Burao",
+    "deathplace": "Hargeisa",
+    "birth_lon": 45.53811,
+    "birth_lat": 9.52776,
+    "death_lon": 44.0618,
+    "death_lat": 9.56173
   },
   {
     "href": "https://en.wikipedia.org/wiki/Hafez",
@@ -12771,10 +12771,10 @@
     "born": 1315,
     "died": 1390,
     "info": "Persian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birthplace": "Shiraz",
+    "deathplace": "Timurid Empire",
+    "birth_lon": 52.5378,
+    "birth_lat": 29.60602,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -12784,12 +12784,12 @@
     "born": 1964,
     "died": 1989,
     "info": "Chinese poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Huaining County",
+    "deathplace": "Shanhaiguan District",
+    "birth_lon": 116.82457,
+    "birth_lat": 30.73689,
+    "death_lon": 119.75853,
+    "death_lat": 39.98133
   },
   {
     "href": "https://en.wikipedia.org/wiki/John_Haines",
@@ -13265,8 +13265,8 @@
     "born": 1923,
     "died": 2004,
     "info": "US poet",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -13603,8 +13603,8 @@
     "born": 0,
     "died": 0,
     "info": "Ancient Greek poet",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Cyme (Aeolis)",
+    "deathplace": "Ascra",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -13721,11 +13721,11 @@
     "died": 1963,
     "info": "Turkish poet, playwright and novelist",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Moscow",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 37.60639,
+    "death_lat": 55.62558
   },
   {
     "href": "https://en.wikipedia.org/wiki/Geoffrey_Hill",
@@ -14020,11 +14020,11 @@
     "died": 0,
     "info": "Greek epic poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Ios",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -8.86393,
+    "death_lat": 37.95552
   },
   {
     "href": "https://en.wikipedia.org/wiki/Thomas_Hood",
@@ -14864,12 +14864,12 @@
     "born": 1921,
     "died": 2004,
     "info": "Croatian Serb poet and writer",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Knin",
+    "deathplace": "Zagreb",
+    "birth_lon": 16.19943,
+    "birth_lat": 44.04085,
+    "death_lon": 15.97728,
+    "death_lat": 45.8131
   },
   {
     "href": "https://en.wikipedia.org/wiki/Rod_Jellema",
@@ -14930,11 +14930,11 @@
     "died": 1591,
     "info": "Spanish mystic and poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "\u00dabeda",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -3.37191,
+    "death_lat": 38.01114
   },
   {
     "href": "https://en.wikipedia.org/wiki/Edmund_John",
@@ -15020,10 +15020,10 @@
     "born": 1709,
     "died": 1784,
     "info": "English poet, essayist and lexicographer",
-    "birthplace": "Lichfield",
+    "birthplace": "Old Style and New Style dates",
     "deathplace": "",
-    "birth_lon": -1.82753,
-    "birth_lat": 52.68437,
+    "birth_lon": 0,
+    "birth_lat": 0,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -15176,12 +15176,12 @@
     "born": 1905,
     "died": 1937,
     "info": "Hungarian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Budapest",
+    "deathplace": "Balatonsz\u00e1rsz\u00f3",
+    "birth_lon": 19.04016,
+    "birth_lat": 47.49789,
+    "death_lon": 17.83419,
+    "death_lat": 46.82629
   },
   {
     "href": "https://en.wikipedia.org/wiki/Frank_Judge",
@@ -15501,8 +15501,8 @@
     "born": 1941,
     "died": 2021,
     "info": "Estonian poet, philosopher and critic",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -16229,12 +16229,12 @@
     "born": 1935,
     "died": 1989,
     "info": "Serbian fiction writer and poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Subotica",
+    "deathplace": "Paris",
+    "birth_lon": 19.66533,
+    "birth_lat": 46.10021,
+    "death_lon": 2.34839,
+    "death_lat": 48.8535
   },
   {
     "href": "https://en.wikipedia.org/wiki/Necip_Faz%C4%B1l_K%C4%B1sak%C3%BCrek",
@@ -17842,11 +17842,11 @@
     "died": 1997,
     "info": "British-born US poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Seattle",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -122.33006,
+    "death_lat": 47.60383
   },
   {
     "href": "https://en.wikipedia.org/wiki/Dana_Levin_(poet)",
@@ -18049,12 +18049,12 @@
     "born": 701,
     "died": 762,
     "info": "Chinese Tang dynasty poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Jiangyou",
+    "deathplace": "Dangtu",
+    "birth_lon": 104.93472,
+    "birth_lat": 31.95255,
+    "death_lon": 118.49282,
+    "death_lat": 31.57229
   },
   {
     "href": "https://en.wikipedia.org/wiki/Jerzy_Liebert",
@@ -18310,11 +18310,11 @@
     "died": 1992,
     "info": "Caribbean-US writer, poet and librarian",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Saint Croix",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -92.46793,
+    "death_lat": 45.03124
   },
   {
     "href": "https://en.wikipedia.org/wiki/Richard_Lovelace_(poet)",
@@ -18426,12 +18426,12 @@
     "born": 1642,
     "died": 1702,
     "info": "Polish poet, writer and politician",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Niepo\u0142omice",
+    "deathplace": "Warsaw",
+    "birth_lon": 20.21716,
+    "birth_lat": 50.03312,
+    "death_lon": 21.00672,
+    "death_lat": 52.23196
   },
   {
     "href": "https://en.wikipedia.org/wiki/Gherasim_Luca",
@@ -18725,12 +18725,12 @@
     "born": 1911,
     "died": 1996,
     "info": "Scottish Gaelic poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Raasay",
+    "deathplace": "Inverness",
+    "birth_lon": -6.05354,
+    "birth_lat": 57.41755,
+    "death_lon": -4.22574,
+    "death_lat": 57.47901
   },
   {
     "href": "https://en.wikipedia.org/wiki/Gwendolyn_MacEwen",
@@ -18920,12 +18920,12 @@
     "born": 1874,
     "died": 1934,
     "info": "Slovene poet and activist",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Kamnik",
+    "deathplace": "Unec",
+    "birth_lon": 14.61189,
+    "birth_lat": 46.22574,
+    "death_lon": 14.2909,
+    "death_lat": 45.81955
   },
   {
     "href": "https://en.wikipedia.org/wiki/Gajanan_Digambar_Madgulkar",
@@ -19051,11 +19051,11 @@
     "died": 1898,
     "info": "French poet and critic",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Vulaines-sur-Seine",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 2.76378,
+    "death_lat": 48.4308
   },
   {
     "href": "https://en.wikipedia.org/wiki/David_Mallet_(writer)",
@@ -19102,8 +19102,8 @@
     "born": 0,
     "died": 0,
     "info": "Russian poet",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Old Style and New Style dates",
+    "deathplace": "Gulag",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -20052,11 +20052,11 @@
     "died": 1995,
     "info": "US poet; ",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Tucson, Arizona",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -110.97485,
+    "death_lat": 32.22288
   },
   {
     "href": "https://en.wikipedia.org/wiki/Thomas_Merton",
@@ -20078,11 +20078,11 @@
     "died": 2019,
     "info": "US poet and author; ",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Haiku, Hawaii",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -156.32296,
+    "death_lat": 20.91439
   },
   {
     "href": "https://en.wikipedia.org/wiki/Sarah_Messer",
@@ -20649,10 +20649,10 @@
     "born": 1440,
     "died": 1530,
     "info": "Indian Telugu poet",
-    "birthplace": "",
+    "birthplace": "Kadapa district",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 78.82169,
+    "birth_lat": 14.47529,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -21286,8 +21286,8 @@
     "born": 1899,
     "died": 1977,
     "info": "Russian novelist and poet in Russian and English",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Old Style and New Style dates",
+    "deathplace": "Montreux",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -21377,12 +21377,12 @@
     "born": 1469,
     "died": 1539,
     "info": "first Sikh Guru and Punjabi poet",
-    "birthplace": "Punjab",
+    "birthplace": "Kartik Purnima",
     "deathplace": "Kartarpur, Pakistan",
-    "birth_lon": 75.50048,
-    "birth_lat": 30.92932,
-    "death_lon": 75.01536,
-    "death_lat": 32.09019
+    "birth_lon": 0,
+    "birth_lat": 0,
+    "death_lon": 0,
+    "death_lat": 0
   },
   {
     "href": "https://en.wikipedia.org/wiki/Nannaya",
@@ -21390,10 +21390,10 @@
     "born": 0,
     "died": 0,
     "info": "earliest known Telugu author",
-    "birthplace": "",
+    "birthplace": "Rajamahendravaram",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 81.78047,
+    "birth_lat": 17.00505,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -21456,11 +21456,11 @@
     "died": 0,
     "info": "Azerbaijani poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Aleppo",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 37.16373,
+    "death_lat": 36.19924
   },
   {
     "href": "https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Nastasijevi%C4%87",
@@ -21599,11 +21599,11 @@
     "died": 1991,
     "info": "US poet; US Poet Laureate ",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "University City, Missouri",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -90.31034,
+    "death_lat": 38.65691
   },
   {
     "href": "https://en.wikipedia.org/wiki/Istv%C3%A1n_P%C3%A9ter_N%C3%A9meth",
@@ -21715,12 +21715,12 @@
     "born": 1766,
     "died": 1820,
     "info": "Vietnamese poet in ancient Ch\u1eef N\u00f4m script",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "H\u00e0 T\u0129nh",
+    "deathplace": "Hu\u1ebf",
+    "birth_lon": 105.7623,
+    "birth_lat": 18.35048,
+    "death_lon": 107.58634,
+    "death_lat": 16.46393
   },
   {
     "href": "https://en.wikipedia.org/wiki/B._P._Nichol",
@@ -21871,12 +21871,12 @@
     "born": 1813,
     "died": 1851,
     "info": "Serbian poet, playwright and prince-bishop",
-    "birthplace": "Njegu\u0161i",
-    "deathplace": "Cetinje",
-    "birth_lon": 18.82477,
-    "birth_lat": 42.4313,
-    "death_lon": 18.92461,
-    "death_lat": 42.38963
+    "birthplace": "Old Style and New Style dates",
+    "deathplace": "Old Style and New Style dates",
+    "birth_lon": 0,
+    "birth_lat": 0,
+    "death_lon": 0,
+    "death_lat": 0
   },
   {
     "href": "https://en.wikipedia.org/wiki/Yamilka_Noa",
@@ -22274,12 +22274,12 @@
     "born": 1876,
     "died": 1957,
     "info": "Japanese poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Okayama",
+    "deathplace": "Tokyo",
+    "birth_lon": 133.77593,
+    "birth_lat": 34.85813,
+    "death_lon": 139.77449,
+    "death_lat": 35.68406
   },
   {
     "href": "https://en.wikipedia.org/wiki/Onomacritus",
@@ -22431,11 +22431,11 @@
     "died": 0,
     "info": "Roman poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Constan\u021ba",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 28.65076,
+    "death_lat": 44.17672
   },
   {
     "href": "https://en.wikipedia.org/wiki/Wilfred_Owen",
@@ -22522,11 +22522,11 @@
     "died": 2007,
     "info": "US short story writer and poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Thetford, Vermont",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -72.24677,
+    "death_lat": 43.83155
   },
   {
     "href": "https://en.wikipedia.org/wiki/Francis_Turner_Palgrave",
@@ -22612,8 +22612,8 @@
     "born": 1717,
     "died": 1791,
     "info": "Welsh poet and hymnist in Welsh",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -22794,12 +22794,12 @@
     "born": 1939,
     "died": 1968,
     "info": "Indian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Anand, Gujarat",
+    "deathplace": "Ahmedabad",
+    "birth_lon": 72.96272,
+    "birth_lat": 22.55866,
+    "death_lon": 72.57971,
+    "death_lat": 23.02162
   },
   {
     "href": "https://en.wikipedia.org/wiki/Banjo_Paterson",
@@ -22859,10 +22859,10 @@
     "born": 1885,
     "died": 1966,
     "info": "Nepalese poet",
-    "birthplace": "Kaski District",
+    "birthplace": "Bikram Sambat",
     "deathplace": "",
-    "birth_lon": 24.91952,
-    "birth_lat": 60.23289,
+    "birth_lon": 0,
+    "birth_lat": 0,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -23250,11 +23250,11 @@
     "died": 0,
     "info": "Theban lyric poet in Greek",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Argos, Peloponnese",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 22.72851,
+    "death_lat": 37.63497
   },
   {
     "href": "https://en.wikipedia.org/wiki/Robert_Pinsky",
@@ -23522,10 +23522,10 @@
     "born": 1621,
     "died": 1696,
     "info": "Polish poet and moralist",
-    "birthplace": "",
+    "birthplace": "Wola \u0141u\u017ca\u0144ska",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 21.06674,
+    "birth_lat": 49.69128,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -23549,11 +23549,11 @@
     "died": 1993,
     "info": "Telugu poet",
     "birthplace": "Jagtial",
-    "deathplace": "Hyderabad, Telangana",
+    "deathplace": "Wikipedia:Citation needed",
     "birth_lon": 78.91624,
     "birth_lat": 18.79566,
-    "death_lon": 78.47406,
-    "death_lat": 17.36059
+    "death_lon": 0,
+    "death_lat": 0
   },
   {
     "href": "https://en.wikipedia.org/wiki/Tapan_Kumar_Pradhan",
@@ -23601,11 +23601,11 @@
     "died": 1937,
     "info": "Indian poet in Hindi",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Benares",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 83.00763,
+    "death_lat": 25.33565
   },
   {
     "href": "https://en.wikipedia.org/wiki/E._J._Pratt",
@@ -23821,12 +23821,12 @@
     "born": 1799,
     "died": 1837,
     "info": "Russian poet, novelist and playwright",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Moscow",
+    "deathplace": "Saint Petersburg",
+    "birth_lon": 37.60639,
+    "birth_lat": 55.62558,
+    "death_lon": 30.31623,
+    "death_lat": 59.93873
   },
   {
     "href": "https://en.wikipedia.org/wiki/Nizar_Qabbani",
@@ -23834,10 +23834,10 @@
     "born": 1923,
     "died": 1998,
     "info": "Syrian diplomat, poet and publisher",
-    "birthplace": "",
+    "birthplace": "Damascus",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 36.30958,
+    "birth_lat": 33.51307,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -23977,10 +23977,10 @@
     "born": 1929,
     "died": 2006,
     "info": "Bangladeshi poet and columnist",
-    "birthplace": "",
+    "birthplace": "Dhaka",
     "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
+    "birth_lon": 90.38902,
+    "birth_lat": 23.7644,
     "death_lon": 0,
     "death_lat": 0
   },
@@ -24068,7 +24068,7 @@
     "born": 1950,
     "died": 0,
     "info": "Hungarian poet and translator",
-    "birthplace": "",
+    "birthplace": "Edit this on Wikidata",
     "deathplace": "",
     "birth_lon": 0,
     "birth_lat": 0,
@@ -24536,8 +24536,8 @@
     "born": 1905,
     "died": 1982,
     "info": "US poet, translator and critical essayist",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -24784,11 +24784,11 @@
     "died": 1981,
     "info": "Pakistani poet and scholar in Urdu and Persian",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Ahmedpur Sial",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 71.69913,
+    "death_lat": 30.72857
   },
   {
     "href": "https://en.wikipedia.org/wiki/Emma_Roberts_(author)",
@@ -25017,8 +25017,8 @@
     "born": 1843,
     "died": 1918,
     "info": "Austrian poet",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -25122,11 +25122,11 @@
     "died": 1882,
     "info": "English poet, illustrator and painter",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Birchington-on-Sea",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 1.3009,
+    "death_lat": 51.3775
   },
   {
     "href": "https://en.wikipedia.org/wiki/Andrus_R%C3%B5uk",
@@ -25576,12 +25576,12 @@
     "born": 1868,
     "died": 1924,
     "info": "Bosnian Serb poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Mostar",
+    "deathplace": "Mostar",
+    "birth_lon": 17.80766,
+    "birth_lat": 43.34359,
+    "death_lon": 17.80766,
+    "death_lat": 43.34359
   },
   {
     "href": "https://en.wikipedia.org/wiki/Taneda_Sant%C5%8Dka",
@@ -25641,8 +25641,8 @@
     "born": 1595,
     "died": 1640,
     "info": "Polish poet in Latin",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -25837,7 +25837,7 @@
     "died": 1931,
     "info": "Austrian author and dramatist",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "First Austrian Republic",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -26175,11 +26175,11 @@
     "died": 1974,
     "info": "US poet; Confessional poetry, ",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Weston, Massachusetts",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -71.30311,
+    "death_lat": 42.36676
   },
   {
     "href": "https://en.wikipedia.org/wiki/John_W._Sexton",
@@ -26421,8 +26421,8 @@
     "born": 1814,
     "died": 1861,
     "info": "Ukrainian poet and artist",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Old Style and New Style dates",
+    "deathplace": "Old Style and New Style dates",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -26773,11 +26773,11 @@
     "died": 1529,
     "info": "English poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Westminster",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -0.12654,
+    "death_lat": 51.50044
   },
   {
     "href": "https://en.wikipedia.org/wiki/Sasha_Skenderija",
@@ -26941,12 +26941,12 @@
     "born": 1898,
     "died": 1923,
     "info": "Bulgarian poet and writer",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Kilkis",
+    "deathplace": "Sofia",
+    "birth_lon": 22.87415,
+    "birth_lat": 40.99359,
+    "death_lon": 48.25622,
+    "death_lat": -15.25384
   },
   {
     "href": "https://en.wikipedia.org/wiki/Bruce_Smith_(poet)",
@@ -27253,12 +27253,12 @@
     "born": 1561,
     "died": 1595,
     "info": "English Catholic Jesuit priest, poet and clandestine missionary",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Norfolk",
+    "deathplace": "Tyburn, London",
+    "birth_lon": 1.0,
+    "birth_lat": 52.66667,
+    "death_lon": -0.15296,
+    "death_lat": 51.51839
   },
   {
     "href": "https://en.wikipedia.org/wiki/Wole_Soyinka",
@@ -27852,11 +27852,11 @@
     "died": 1984,
     "info": "US writer of fiction and poetry",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Ironton, Ohio",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -82.68294,
+    "death_lat": 38.53675
   },
   {
     "href": "https://en.wikipedia.org/wiki/Jacquie_Sturm",
@@ -28293,12 +28293,12 @@
     "born": 1861,
     "died": 1941,
     "info": "Bengali polymath; ",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Kolkata",
+    "deathplace": "Calcutta",
+    "birth_lon": 88.3639,
+    "birth_lat": 22.57265,
+    "death_lon": 88.3639,
+    "death_lat": 22.57265
   },
   {
     "href": "https://en.wikipedia.org/wiki/Judit_Dukai_Tak%C3%A1ch",
@@ -28306,12 +28306,12 @@
     "born": 0,
     "died": 0,
     "info": "Hungarian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Duka",
+    "deathplace": "Sopron",
+    "birth_lon": 17.11232,
+    "birth_lat": 47.12521,
+    "death_lon": 16.59835,
+    "death_lat": 47.68031
   },
   {
     "href": "https://en.wikipedia.org/wiki/Bogi_Tak%C3%A1cs",
@@ -28332,12 +28332,12 @@
     "born": 1874,
     "died": 1959,
     "info": "Japanese poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Matsuyama, Ehime",
+    "deathplace": "Kamakura, Kanagawa",
+    "birth_lon": 132.76535,
+    "birth_lat": 33.83952,
+    "death_lon": 139.54442,
+    "death_lat": 35.32956
   },
   {
     "href": "https://en.wikipedia.org/wiki/Taliesin",
@@ -28372,11 +28372,11 @@
     "died": 1996,
     "info": "Belarus poet",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Minsk",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": 27.56182,
+    "death_lat": 53.90247
   },
   {
     "href": "https://en.wikipedia.org/wiki/Tao_Yuanming",
@@ -28813,12 +28813,12 @@
     "born": 1914,
     "died": 1953,
     "info": "Welsh poet and writer in English",
-    "birthplace": "Swansea",
-    "deathplace": "Greenwich Village",
-    "birth_lon": -3.94592,
-    "birth_lat": 51.6196,
-    "death_lon": -73.99657,
-    "death_lat": 40.73198
+    "birthplace": "Uplands, Swansea",
+    "deathplace": "",
+    "birth_lon": -3.96683,
+    "birth_lat": 51.61869,
+    "death_lon": 0,
+    "death_lat": 0
   },
   {
     "href": "https://en.wikipedia.org/wiki/Edward_Thomas_(poet)",
@@ -29438,11 +29438,11 @@
     "died": 0,
     "info": "Hindu poet-saint, reformer and philosopher",
     "birthplace": "Rajapur, Uttar Pradesh",
-    "deathplace": "Assi Ghat",
+    "deathplace": "Wikipedia:Citation needed",
     "birth_lon": 82.53343,
     "birth_lat": 25.13211,
-    "death_lon": 83.00618,
-    "death_lat": 25.28917
+    "death_lon": 0,
+    "death_lat": 0
   },
   {
     "href": "https://en.wikipedia.org/wiki/Hovhannes_Tumanyan",
@@ -29892,12 +29892,12 @@
     "born": 1909,
     "died": 1942,
     "info": "Bulgarian poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Bansko",
+    "deathplace": "Sofia",
+    "birth_lon": 23.48417,
+    "birth_lat": 41.83441,
+    "death_lon": 48.25622,
+    "death_lat": -15.25384
   },
   {
     "href": "https://en.wikipedia.org/wiki/Varand",
@@ -29996,8 +29996,8 @@
     "born": 1861,
     "died": 1915,
     "info": "Georgian poet and writer",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Tiflis Governorate",
+    "deathplace": "Tbilisi",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -30178,7 +30178,7 @@
     "born": 1928,
     "died": 0,
     "info": "Canadian Quebecois poet, publisher and singer-songwriter",
-    "birthplace": "",
+    "birthplace": "Natashquan, Quebec (township)",
     "deathplace": "",
     "birth_lon": 0,
     "birth_lat": 0,
@@ -30893,12 +30893,12 @@
     "born": 1899,
     "died": 1946,
     "info": "Chinese poet",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Xishui County, Hubei",
+    "deathplace": "Kunming",
+    "birth_lon": 115.29931,
+    "birth_lat": 30.59994,
+    "death_lon": 102.70861,
+    "death_lat": 25.0363
   },
   {
     "href": "https://en.wikipedia.org/wiki/Marjory_Heath_Wentworth",
@@ -31387,8 +31387,8 @@
     "born": 1717,
     "died": 1791,
     "info": "Welsh poet and hymnist",
-    "birthplace": "",
-    "deathplace": "",
+    "birthplace": "Edit this on Wikidata",
+    "deathplace": "Edit this on Wikidata",
     "birth_lon": 0,
     "birth_lat": 0,
     "death_lon": 0,
@@ -31426,7 +31426,7 @@
     "born": 1937,
     "died": 0,
     "info": "US poet and editor",
-    "birthplace": "Edit this on Wikidata",
+    "birthplace": "",
     "deathplace": "",
     "birth_lon": 0,
     "birth_lat": 0,
@@ -31921,11 +31921,11 @@
     "died": 2005,
     "info": "Somali poet active in ",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Columbus, Ohio",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -83.00071,
+    "death_lat": 39.96226
   },
   {
     "href": "https://en.wikipedia.org/wiki/Xu_Pei",
@@ -32050,12 +32050,12 @@
     "born": 1933,
     "died": 2017,
     "info": "Soviet Russian poet, dramatist and film director",
-    "birthplace": "",
-    "deathplace": "",
-    "birth_lon": 0,
-    "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "birthplace": "Zima (town)",
+    "deathplace": "Tulsa, Oklahoma",
+    "birth_lon": 102.05273,
+    "birth_lat": 53.9284,
+    "death_lon": -95.99275,
+    "death_lat": 36.15631
   },
   {
     "href": "https://en.wikipedia.org/wiki/Yi_Suhyeong",
@@ -32506,11 +32506,11 @@
     "died": 1978,
     "info": "US objectivist poets",
     "birthplace": "",
-    "deathplace": "",
+    "deathplace": "Port Jefferson",
     "birth_lon": 0,
     "birth_lat": 0,
-    "death_lon": 0,
-    "death_lat": 0
+    "death_lon": -73.06913,
+    "death_lat": 40.94651
   },
   {
     "href": "https://en.wikipedia.org/wiki/Jerzy_%C5%BBu%C5%82awski",
