@@ -18,9 +18,7 @@
 
 
 
-<br/>
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/52339d04-f3b6-4df9-8ad3-00189a38441a)
-
+![image](https://github.com/briggsreschke/poets/assets/16325768/b0f776f9-02f8-4f8b-a8d4-09a87ee16835)
 
 
