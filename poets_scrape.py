@@ -88,7 +88,7 @@ with open("./world-poets-g.json", 'w') as outfile:
 
 
 # ---------------------------------------------------------------------------
-# Get birthplace and deathplace from poet wikipage infobox
+# Get birthplace and deathplace from poet wikipage 
 
 for poet in poets:
     url = poet['href']
