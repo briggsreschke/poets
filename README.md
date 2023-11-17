@@ -8,7 +8,7 @@
 <br/>
 
 * [Time Slider - Poet Birthplace/Time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
-![image](https://github.com/briggsreschke/poets/assets/16325768/a0d72962-8597-4c71-a86c-c2b843d6dfda)
+![image](https://github.com/briggsreschke/poets/assets/16325768/88101c3a-867c-480d-a4c3-64b3221021ca)
 
 <br/>
 
