@@ -1,6 +1,5 @@
 # Scrape wikipedia for World of Poets
-# Slacker Design
-# feature.frame at gmail dot com
+# Slacker Design - (feature.frame at gmail dot com)
 
 import requests
 from bs4 import BeautifulSoup
