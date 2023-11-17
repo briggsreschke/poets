@@ -14,17 +14,15 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/8108bf8f-7fcd-4a40-ae2c-17f356c333cf)
 
+![image](https://github.com/briggsreschke/poets/assets/16325768/1dd47afd-8673-4671-af7c-7c80d3eb41bd)
 
 
 <br/>
 
 ## Maps
-![poets birthplace](https://github.com/briggsreschke/poets/assets/16325768/4c5cf554-9bdc-4fef-923c-82aecc9045cd)
-
+![image](https://github.com/briggsreschke/poets/assets/16325768/3d02d9dd-0b5b-4c78-bec5-70642335de77)
 
 <br/>
-
-![poets birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/0e2db170-499b-45fa-aa22-06be8100c3b0)
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/6858052f-ac00-47c6-b4e8-942e4bbdf26e)
 
