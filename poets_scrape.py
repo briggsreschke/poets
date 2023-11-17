@@ -91,8 +91,8 @@ with open("./world-poets-g.json", 'w') as outfile:
 # Get birthplace and deathplace from poet wikipage infobox
 
 for poet in poets:
-    url2 = poet['href']
-    page = requests.get(url2)
+    url = poet['href']
+    page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
 
     try:
