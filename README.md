@@ -3,14 +3,12 @@
 
 ## Apps/Widgets
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
-
 ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500)
 
 <br/>
 
 * [Time Slider - Poet Birthplace/Time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
-
-![image](https://github.com/briggsreschke/poets/assets/16325768/8a7ac051-3416-44ad-9e83-2634ae10b736)
+![image](https://github.com/briggsreschke/poets/assets/16325768/a0d72962-8597-4c71-a86c-c2b843d6dfda)
 
 <br/>
 
