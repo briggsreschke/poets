@@ -6,7 +6,7 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/ecff6844-e50c-4cb3-862b-bb592b0a6e36)
 
-
+<br/>
 
 * [Poets from the US over time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
 
