@@ -1,5 +1,6 @@
 # Scrape wikipedia for World of Poets
-# Slacker Design - (feature.frame at gmail dot com)
+# Slacker Design
+# feature.frame at gmail dot com
 
 import requests
 from bs4 import BeautifulSoup
@@ -11,19 +12,20 @@ from geopandas.tools import geocode
 poets = []
 
 # ---------------------------------------------------------------------------------------------
+# make array of dicts (poet records) from html poet data
 
 soup = BeautifulSoup(open("filtered.html"), 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all('li')
 
-for item in items:
-    link = item.find('a')
+for record in items:
+    row = record.find('a')
     poet = {}
-    poet['href'] = 'https://en.wikipedia.org' + link['href']
-    poet['name'] = link.text
+    poet['href'] = 'https://en.wikipedia.org' + row['href']
+    poet['name'] = row.text
     poet["born"] = 0
     poet["died"] = 0
-    poet['info'] = item.text
+    poet['info'] = record.text
     poet['birthplace'] = ''
     poet['deathplace'] = ''
     poet['birth_lon'] = 0
@@ -36,7 +38,7 @@ with open("./world-poets-g.json", 'w') as outfile:
     json.dump(poets, outfile)
 
 # -----------------------------------------------------------------------------------------
-# Dates of Birth/Death with regular expressions
+# Get dates of birth/death with regular expressions
 
 pattern = "\(\d+\u2013\d+\)" + "|" + "\(born \d+\)" + "|" + "\(died \d+\)"
 
@@ -86,10 +88,11 @@ with open("./world-poets-g.json", 'w') as outfile:
 
 
 # ---------------------------------------------------------------------------
-# Get birthplace and deathplace
+# Get birthplace and deathplace from poet wikipage infobox
 
 for poet in poets:
-    page = requests.get(poet["href"])
+    url2 = poet['href']
+    page = requests.get(url2)
     soup = BeautifulSoup(page.text, 'html.parser')
 
     try:
