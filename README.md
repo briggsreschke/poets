@@ -6,16 +6,11 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500)
 
-
-
 <br/>
 
 * [Poets from the US over time (b. 1800-1990)](http://slackerdesign.com/poets/poet_timeslider.html)
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/8108bf8f-7fcd-4a40-ae2c-17f356c333cf)
-
-![image](https://github.com/briggsreschke/poets/assets/16325768/1dd47afd-8673-4671-af7c-7c80d3eb41bd)
-
 
 <br/>
 
