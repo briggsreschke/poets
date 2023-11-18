@@ -1,9 +1,6 @@
 # Poets
 
 >*The poetic area is very spacious—has so many mansions—has room for all—<br>
->An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,<br>
->Limitless, subtle, refusing to be tabulated, needing comparisons and contrasts,</br>
->Evolutionary, and ready at any time for themes, standards, previously unknown.* </br>
 >-- Walt Whitman
 </br>
 
