@@ -3,7 +3,7 @@
 
 >*<b>The poetic area is very spacious—has so many mansions—has room for all—</b><br>
 >An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,<br>
->    &#8212 Walt Whitman (Poetry and the Poet)*
+>    * Walt Whitman (Poetry and the Poet)*
 
 ## Apps/Widgets
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
