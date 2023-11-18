@@ -6,7 +6,7 @@
 >Limitless, subtle, refusing to be tabulated, needing comparisons and contrasts,</br>
 >Evolutionary, and ready at any time for themes, standards, previously unknown.* </br>
 
--- Walt Whitman
+>-- Walt Whitman
 
 ## Apps/Widgets
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
