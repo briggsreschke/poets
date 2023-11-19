@@ -26,7 +26,8 @@
 ## Maps
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/e8b4094c-f77d-4879-9482-eff92c162ff2) -->
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/caff5c6c-cbf9-4878-bda5-daacad4f080f)
+![image](https://github.com/briggsreschke/poets/assets/16325768/5ddf15d6-f799-43a1-9dae-00075b04eb79)
+
 
 
 
