@@ -6,6 +6,7 @@
 > — Walt Whitman (Poetry and the Poet)*
 <br>
 ## Apps/Widgets
+
 * [World's Poets interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/2274b8f0-d0b1-4199-9501-6349f90e54b3)
