@@ -13,7 +13,7 @@
 
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500) -->
 
-* [Time Slider](http://slackerdesign.com/poets/poet_timeslider.html) - Birthplace/Time 
+* [Time widget](http://slackerdesign.com/poets/poet_timeslider.html) - Birthplace/Time 
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/f1916f98-fc20-49be-a413-3748969e4fa3)
 <br/>
