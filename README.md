@@ -10,9 +10,6 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/2274b8f0-d0b1-4199-9501-6349f90e54b3)
 
-
-
-
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500) -->
 
 
