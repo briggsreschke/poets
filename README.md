@@ -25,6 +25,7 @@
 ![image](https://github.com/briggsreschke/poets/assets/16325768/b737f482-97e3-4706-b1e9-efb345ea8683)
 
 </br>
+
 >*<b>The poetic area is very spacious—has so many mansions—has room for all—</b><br>
 >An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,<br><br>
 > — Walt Whitman (Poetry and the Poet)*
