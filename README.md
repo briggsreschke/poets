@@ -10,7 +10,8 @@
 ## Apps/Widgets
 * [Interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/2274b8f0-d0b1-4199-9501-6349f90e54b3)
+![image](https://github.com/briggsreschke/poets/assets/16325768/a3d1f29b-b901-400c-86dd-ac6b8b58c409)
+
 
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500) -->
 
