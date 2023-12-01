@@ -12,8 +12,8 @@ Scriptwise, I geocoded what I could for birth/death place. Not everyone has pers
 
 ## Apps/Widgets
 * [Interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data. (**optimized for desktop**)
-  
-![image](https://github.com/briggsreschke/poets/assets/16325768/409d9f0e-20bb-4a30-a505-d5ad9fc98f3f)
+  ![image](https://github.com/briggsreschke/poets/assets/16325768/83cb0b48-e1c8-4990-b492-0b0f7a753d17)
+
 ![image](https://github.com/briggsreschke/poets/assets/16325768/98be464b-5450-42fc-98a7-07a10f9a9cbe)
 
 
