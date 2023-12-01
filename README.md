@@ -1,6 +1,5 @@
 # Poets
-[Poets from around the World](https://en.wikipedia.org/wiki/List_of_poets) and [Poets from the United States](https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States) scraped from wikipedia with a python script (*poets-scrape.py*). Standalone maps created with [QGIS](https://www.qgis.org/en/site/). 
-Working with *MapLibre* and *Leaflet* for interactive stuff. </br> Scriptwise, I geocoded what I could for birth/death place. Not everyone has personal history data in wiki infobox. </br>
+[Poets from around the World](https://en.wikipedia.org/wiki/List_of_poets) and [Poets from the United States](https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States) scraped from wikipedia with a python script (*poets-scrape.py*). Standalone maps created with [QGIS](https://www.qgis.org/en/site/). Working with *MapLibre* and *Leaflet* for interactive stuff. Scriptwise, I geocoded what I could for birth/death place. Not everyone has personal history data in wiki infobox. </br>
 
 
 <!--
