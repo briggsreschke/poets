@@ -31,8 +31,8 @@
 </br>
 
 >*The poetic area is very spacious—has so many mansions—has room for all—<br>
->An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,<br><br>
-> <b>Walt Whitman (Poetry and the Poet)<b/>*
+>An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,*<br><br>
+> <b>Walt Whitman (Poetry and the Poet)<b/>
 
 
 
