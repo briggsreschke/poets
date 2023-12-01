@@ -19,7 +19,8 @@
 
 * [Time widget](http://slackerdesign.com/poets/poets-timeslider.html) - Birthplaces of poets over time
 
-![image](https://github.com/briggsreschke/poets/assets/16325768/cc1c3a41-278e-499a-a1bb-c326d4951a4c)
+![image](https://github.com/briggsreschke/poets/assets/16325768/ce1daf88-ce50-4525-a5a5-044fc120e487)
+
 
 ## Maps
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/e8b4094c-f77d-4879-9482-eff92c162ff2) -->
