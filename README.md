@@ -25,6 +25,7 @@ Scriptwise, I geocoded what I could for birth/death place. Not everyone has pers
 
 <br/>
 ## Maps
+
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/e8b4094c-f77d-4879-9482-eff92c162ff2) -->
 ![image](https://github.com/briggsreschke/poets/assets/16325768/b737f482-97e3-4706-b1e9-efb345ea8683)
 
