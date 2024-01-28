@@ -9,7 +9,7 @@
 -->
 
 ## Apps/Widgets
-* [Interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data. (**optimized for desktop**)
+* [Interactive map](http://slackerdesign.com/poets/poets.html) (so far...) see [world-poets.csv](world-poets.csv) for more complete data. (*best viewed on computer screen*)
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/e22a97e9-ad6b-4645-b866-644ee8a7e998)
 
