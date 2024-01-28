@@ -13,8 +13,7 @@
 
 ![image](https://github.com/briggsreschke/poets/assets/16325768/e22a97e9-ad6b-4645-b866-644ee8a7e998)
 
-
-![image](https://github.com/briggsreschke/poets/assets/16325768/98be464b-5450-42fc-98a7-07a10f9a9cbe)
+![image](https://github.com/briggsreschke/poets/assets/16325768/0ef44859-5a33-4041-890a-ae6a06ba3ee3)
 
 <!-- ![image](https://github.com/briggsreschke/poets/assets/16325768/c1d52860-da1f-42c5-a5bd-d0caa5312500) -->
 
