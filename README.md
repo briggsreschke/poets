@@ -1,10 +1,10 @@
-> “The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.” <br>
-> ― Walt Whitman
+
 
 # Poets
 [Poets from around the World](https://en.wikipedia.org/wiki/List_of_poets) and [Poets from the United States](https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States) scraped from wikipedia with a python script (*poets-scrape.py*). Standalone maps created with [QGIS](https://www.qgis.org/en/site/). Working with *MapLibre* and *Leaflet* for interactive stuff. Scriptwise, I geocoded what I could for birth/death place. Not everyone has personal history data in wiki infobox. </br>
 
 
+> “The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.”  ― Walt Whitman
 <!--
 >*<b>The poetic area is very spacious—has so many mansions—has room for all—</b><br>
 >An ensemble with measureless varieties, adopting countless samples and elements from all lands, all ages,<br><br>
